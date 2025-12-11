@@ -1,0 +1,4 @@
+python-dotenv~=1.2.1
+sqlmodel~=0.0.27
+SQLAlchemy~=2.0.44
+python-telegram-bot~=22.5
