@@ -1,0 +1,23 @@
+bot:
+  build: .
+  depends_on:
+    - postgres
+    - redis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
